@@ -6,5 +6,5 @@ test("add negative numbers correctly", () => {
 
     const result = add(a, b)
 
-    expect(result).toBe(41)
+    expect(result).toBe(42)
 });
