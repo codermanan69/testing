@@ -4,7 +4,7 @@ test("add negative numbers correctly", () => {
     const a = 2;
     const b = 4
 
-    const result = sub(a, b)
+    const result = add(a, b)
 
     expect(result).toBe(6)
 });
