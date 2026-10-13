@@ -2,7 +2,7 @@ const { sub } = require("./calculator");
 
 test("add negative numbers correctly", () => {
     const a = 2;
-    const b = 41
+    const b = 40
 
     const result = sub(a, b)
 
