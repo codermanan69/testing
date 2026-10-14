@@ -2,7 +2,7 @@ const { sub } = require("./calculator");
 
 test("add negative numbers correctly", () => {
     const a = 2;
-    const b = 4
+    const b = 7
 
     const result = add(a, b)
 
